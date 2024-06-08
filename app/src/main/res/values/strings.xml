@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhatsappClone</string>
+    <string name="todo">todo</string>
+    <string name="username">Username</string>
+    <string name="facebook">Facebook </string>
+    <string name="sign_up">Sign Up</string>
+    <string name="google">Google</string>
+    <string name="Password">Password</string>
+    <string name="sign_up_with_phone_number">Sign Up With Phone Number</string>
+    <string name="email">Email Address</string>
+</resources>
